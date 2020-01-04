@@ -5,7 +5,7 @@ sudo chgrp -R root airootfs/
 
 set -e -u
 
-iso_name=carlilinux
+iso_name=carli
 iso_label="CARLI_$(date +%Y%m)"
 iso_publisher="Carli Linux <http://www.arcolinuxiso.com>"
 iso_application="Carli Linux Live/Rescue CD"
