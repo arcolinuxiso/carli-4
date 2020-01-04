@@ -16,7 +16,6 @@
 # git commit --amend -m "more info"
 # git push --force origin
 
-./cleanup*
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
